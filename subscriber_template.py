@@ -1,21 +1,21 @@
 #!/usr/bin/env python
 
 import rospy
-from std_msgs.msg  import String
+from std_msgs.msg  import String # Import the desired type of message
 
-# Implementazione della funzione di callback
-def chatter_cb(msg):
+def callback(msg):
     print(f"<-- Recieved: {msg}")
 
 def main():
 
-    # Crea un nodo ROS chiamato node_sub_chatter
-    rospy.init_node("node_sub_chatter_upppercase"); 
+    # Creates a ROS node with the given name
+    rospy.init_node("node_name"); 
 
-    # Oggetto Subscriber: (nome del topic su cui pubblica, tipo di messaggio inviato, funzione di callback)
-    sub = rospy.Subscriber("topic_chat_uppercase", String ,chatter_cb); 
+    # The node subscribes from a topic named 'topic_name' and reads a 'String' message.
+    # When a message is recieved, the callback function 'callback' is called
+    sub = rospy.Subscriber("topic_name", String ,callback); 
 
-    # Non ha 
+    # Nothing to do, just listening to callbacks
     while not rospy.is_shutdown():
         pass
 

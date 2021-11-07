@@ -5,22 +5,22 @@ from std_msgs.msg  import String
 
 pub = None;
 
-# Implementazione della funzione di callback
-def chatter_cb(msg):
+def callback(msg):
     print(f"<-- Recieved: {msg}")
-    pub.publish(msg.data.upper())
-    # print(f"")
+    pub.publish(msg)
 
 def main():
+
+    # Creates a ROS node with the given name
+    rospy.init_node("node_name"); 
+
+    # Both a subscriber and a publisher are initialized as standard
+    # The publisher is global, must be accessed also from the callback function
     global pub
-    # Crea un nodo ROS chiamato node_sub_chatter
-    rospy.init_node("node_sub_chatter"); 
+    pub = rospy.Publisher("topic_publishto", String, queue_size=10)
+    sub = rospy.Subscriber("topic_readfrom", String ,callback); 
 
-    # Oggetto Subscriber: (nome del topic su cui pubblica, tipo di messaggio inviato, funzione di callback)
-    pub = rospy.Publisher("topic_chat_uppercase", String, queue_size=10)
-    sub = rospy.Subscriber("topic_chatter", String ,chatter_cb); 
-
-    # Non ha 
+    # Nothing to do, just listening to callbacks
     while not rospy.is_shutdown():
         pass
 

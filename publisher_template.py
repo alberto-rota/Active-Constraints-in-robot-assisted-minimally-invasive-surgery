@@ -1,30 +1,31 @@
-#!/usr/bin/env python
+##!/usr/bin/env python
 
 import rospy
-from std_msgs.msg  import String
+from std_msgs.msg import String  # Import the desired type of message
 
 def main():
 
-    # Crea un nodo ROS chiamato node_pub_chatter
-    rospy.init_node("node_pub_chatter"); 
+    # Creates a ROS node with the given name
+    rospy.init_node("node_name"); 
 
-    # Oggetto Publisher: (nome del topic su cui pubblica, tipo di messaggio inviato, size buffer interno)
-    pub = rospy.Publisher("topic_chatter", String ,queue_size = 10); 
+    # The node publishes on the topic named 'topic_name' a 'String' message
+    pub = rospy.Publisher("topic_name", String ,queue_size = 10); 
 
-    # Variabile di delay (frequenza)
+    # Updating frequency
     rate = rospy.Rate(10) # 10 Hz
 
     counter = 0;
 
-    # while True --> not rospy.is_shutdown(): Procede fino a quando utente chiude
-    while not rospy.is_shutdown():
+    # while True --> not rospy.is_shutdown(): Proceeds until uses presses ctrl-C
+    while not rospy.is_shutdown(): 
         msg_string = f"[{rospy.get_time()}] Counter: {counter}"
         pub.publish(msg_string)
         print(f"--> Sent: {msg_string}")
         counter+=1
 
-        # Delay 100 ms
+        # Delays
         rate.sleep()
 
-main()
+if __name__ == '__main__':
+    main()
 
