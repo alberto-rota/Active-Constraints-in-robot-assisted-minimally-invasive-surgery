@@ -8,7 +8,6 @@ pub = None;
 def callback(msg):
     print(f"<-- Recieved: {msg}")
     pub.publish(msg)
-
 def main():
 
     # Creates a ROS node with the given name

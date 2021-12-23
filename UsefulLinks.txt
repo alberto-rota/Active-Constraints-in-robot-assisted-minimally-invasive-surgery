@@ -1,0 +1,2 @@
+URDF IMPORTER PACKAGE
+https://github.com/Unity-Technologies/URDF-Importer.git?path=/com.unity.robotics.urdf-importer#v0.5.0
