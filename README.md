@@ -6,7 +6,8 @@ The project is deployable on a DaVinci Research Kit.
 ***
 *Active contributors: **Alberto Rota**, Nicolò Pasini, Matteo Pecorella, Ke Fan*
 ***
-A simulation environment is set up in Unity with a virtual model of 2 PSMs of the DVRK and 1 ECM. The virtual robot is controlled from a physical master Manipulator wwhich sends the joint states in a ROS enivronment.
+A simulation environment is set up in Unity with a virtual model of 2 PSMs and 1 ECM. The virtual robot is controlled from a physical master Manipulator which sends the joint states in a ROS enivronment. The Unity virtual environment is captured by two virtual camera in the 3D scene, individually linked to the 2 oculars on the master manipulator. The operator therefore sees the Unity scene in 3D f 
+
 ![dvrk](https://github.com/alberto-rota/Active-Constraints-in-robot-assisted-minimally-invasive-surgery/blob/main/Images/img1.png)
 
 ## Implementation 
