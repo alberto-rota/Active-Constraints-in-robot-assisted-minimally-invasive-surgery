@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{acvf}
+Stuart~A Bowyer, Brian~L Davies, and Ferdinando~Rodriguez y~Baena.
+\newblock Active constraints/virtual fixtures: A survey.
+\newblock {\em IEEE Transactions on Robotics}, 30(1):138--157, 2013.
+
+\bibitem{equations}
+Nima Enayati, Eva~C. Alves~Costa, Giancarlo Ferrigno, and Elena De~Momi.
+\newblock A dynamic non-energy-storing guidance constraint with motion
+  redirection for robot-assisted surgery.
+\newblock In {\em 2016 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 4311--4316, 2016.
+
+\end{thebibliography}
