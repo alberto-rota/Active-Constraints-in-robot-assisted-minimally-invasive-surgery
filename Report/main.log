@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  13 JAN 2022 23:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  14 JAN 2022 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,34 +386,34 @@ LaTeX Info: Redefining \nameref on input line 15.
 <intro1.png, id=38, 170.88844pt x 115.93312pt>
 File: intro1.png Graphic file (type png)
 <use intro1.png>
-Package pdftex.def Info: intro1.png  used on input line 69.
+Package pdftex.def Info: intro1.png  used on input line 70.
 (pdftex.def)             Requested size: 170.88802pt x 115.93283pt.
 <intro2.png, id=42, 170.163pt x 63.948pt>
 File: intro2.png Graphic file (type png)
 <use intro2.png>
-Package pdftex.def Info: intro2.png  used on input line 92.
+Package pdftex.def Info: intro2.png  used on input line 93.
 (pdftex.def)             Requested size: 170.16257pt x 63.94783pt.
 <unityscene.png, id=45, 502.87875pt x 526.21594pt>
 File: unityscene.png Graphic file (type png)
 <use unityscene.png>
-Package pdftex.def Info: unityscene.png  used on input line 126.
+Package pdftex.def Info: unityscene.png  used on input line 127.
 (pdftex.def)             Requested size: 252.0pt x 263.69347pt.
  [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./intro1.png> <./intro2.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 146.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 147.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 146.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 147.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <plotandee.png, id=65, 1100.31075pt x 369.17924pt>
 File: plotandee.png Graphic file (type png)
 <use plotandee.png>
-Package pdftex.def Info: plotandee.png  used on input line 237.
+Package pdftex.def Info: plotandee.png  used on input line 240.
 (pdftex.def)             Requested size: 516.0pt x 173.13684pt.
  [2 <./unityscene.png>] [3 <./plotandee.png>] (./main.bbl)
 
@@ -442,7 +442,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,11n,66p,551b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 622948 bytes).
+Output written on main.pdf (4 pages, 622994 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
