@@ -23,7 +23,7 @@ In blue, the displacement vector from the path to the EE. In green, the EE veloc
 The restoring force vector is sent back to the MTM, which applies the resistance force on the hand-held manipulator. The operator is therefore impeded in deviating from the path, but can still move away from the trajectory with enough force if necessary. The maximum force feedback is set to 5N.
 
  ### Dependencies: 
- * ![ROS#](https://github.com/siemens/ros-sharp)
- * ![DVRK control](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Full-da-Vinci) 
- * Unity version 2020.3.21f1
+ * [ROS#](https://github.com/siemens/ros-sharp)
+ * [DVRK control](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Full-da-Vinci) 
+ * [Unity](https://unity3d.com/get-unity/download) version 2020.3.21f1
  
