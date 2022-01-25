@@ -12,4 +12,17 @@ Nima Enayati, Eva~C. Alves~Costa, Giancarlo Ferrigno, and Elena De~Momi.
 \newblock In {\em 2016 IEEE/RSJ International Conference on Intelligent Robots
   and Systems (IROS)}, pages 4311--4316, 2016.
 
+\bibitem{ref_frames}
+G.~A. Fontanelli, F.~Ficuciello, L.~Villani, and B.~Siciliano.
+\newblock Modelling and identification of the da vinci research kit robotic
+  arms.
+\newblock In {\em 2017 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 1464--1469, 2017.
+
+\bibitem{vitrani2016applying}
+Marie-Aude Vitrani, Cecile Poquet, and Guillaume Morel.
+\newblock Applying virtual fixtures to the distal end of a minimally invasive
+  surgery instrument.
+\newblock {\em IEEE Transactions on Robotics}, 33(1):114--123, 2016.
+
 \end{thebibliography}

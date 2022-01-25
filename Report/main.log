@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  14 JAN 2022 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  25 JAN 2022 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,34 +386,34 @@ LaTeX Info: Redefining \nameref on input line 15.
 <intro1.png, id=38, 170.88844pt x 115.93312pt>
 File: intro1.png Graphic file (type png)
 <use intro1.png>
-Package pdftex.def Info: intro1.png  used on input line 70.
+Package pdftex.def Info: intro1.png  used on input line 52.
 (pdftex.def)             Requested size: 170.88802pt x 115.93283pt.
 <intro2.png, id=42, 170.163pt x 63.948pt>
 File: intro2.png Graphic file (type png)
 <use intro2.png>
-Package pdftex.def Info: intro2.png  used on input line 93.
+Package pdftex.def Info: intro2.png  used on input line 64.
 (pdftex.def)             Requested size: 170.16257pt x 63.94783pt.
 <unityscene.png, id=45, 502.87875pt x 526.21594pt>
 File: unityscene.png Graphic file (type png)
 <use unityscene.png>
-Package pdftex.def Info: unityscene.png  used on input line 127.
+Package pdftex.def Info: unityscene.png  used on input line 78.
 (pdftex.def)             Requested size: 252.0pt x 263.69347pt.
  [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./intro1.png> <./intro2.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 147.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 147.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<plotandee.png, id=65, 1100.31075pt x 369.17924pt>
+<plotandee.png, id=66, 1100.31075pt x 369.17924pt>
 File: plotandee.png Graphic file (type png)
 <use plotandee.png>
-Package pdftex.def Info: plotandee.png  used on input line 240.
+Package pdftex.def Info: plotandee.png  used on input line 126.
 (pdftex.def)             Requested size: 516.0pt x 173.13684pt.
  [2 <./unityscene.png>] [3 <./plotandee.png>] (./main.bbl)
 
@@ -434,18 +434,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5C8F75B7BE3725271FA5FA0EF7D33703;620.
  ) 
 Here is how much of TeX's memory you used:
- 10544 strings out of 478599
- 155465 string characters out of 5858100
- 484200 words of memory out of 5000000
- 28261 multiletter control sequences out of 15000+600000
+ 10548 strings out of 478599
+ 155537 string characters out of 5858100
+ 484273 words of memory out of 5000000
+ 28263 multiletter control sequences out of 15000+600000
  437875 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,551b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,66p,1479b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 622994 bytes).
+Output written on main.pdf (4 pages, 623380 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
