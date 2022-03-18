@@ -1,5 +1,5 @@
 # Active Constraints in Robot-assisted minimally invasive Surgery 
-Implementation of a virtual fixture with motor redirection for robot assisted minimally invasive surgery, as described in *A Dynamic Non-Energy-Storing Guidance Constraint with MotionRedirection for Robot-Assisted Surgery* (2020) from Nima Enayati, Eva C. Alves Costa, Giancarlo Ferrigno and Elena De Momi.
+Implementation of a virtual fixture with motor redirection for robot assisted minimally invasive surgery, as described in *A Dynamic Non-Energy-Storing Guidance Constraint with Motion Redirection for Robot-Assisted Surgery* (2020) from Nima Enayati, Eva C. Alves Costa, Giancarlo Ferrigno and Elena De Momi.
 
 The project is deployable on a DaVinci Research Kit.
 ***
